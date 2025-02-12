@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valentine untuk Rere</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Happy Valentine Lovvvv</h1>
+        <p>Untuk Rere Feby Salva, dari seseorang yang sangat mencintaimu ❤️</p>
+    </div>
+</body>
+</html>
+body {
+    background-color: #D8BFD8; /* Ungu muda */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    text-align: center;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: #800080;
+    font-size: 36px;
+}
+
+p {
+    color: #333;
+    font-size: 18px;
+}
